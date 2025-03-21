@@ -48,5 +48,5 @@ Our biggest challenge was **automating the sticker stamping mechanism**. Despite
 
 This project was an exciting and challenging experience that pushed our **engineering and problem-solving skills** to the limit. Proud of the dedication and teamwork that made it possible! 🚀
 
-![My Team](./Credit_Diggers.JPG)
+![My Team](./EBEC_Team.JPG)
 
