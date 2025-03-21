@@ -1,7 +1,5 @@
 # EBEC_Arduino_Autoline
 
-# EBEC Challenge: Engineering Under Pressure
-
 ## Overview
 
 This project was developed as part of the **EBEC Challenge '25** in the **Innovative Design** category. The challenge required our team to design and build a **fully functional automated assembly line prototype** within just **24 hours**. The system was designed to perform four key operations:
