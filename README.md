@@ -1,8 +1,10 @@
 # EBEC_Arduino_Autoline
 
+# EBEC Challenge: Engineering Under Pressure
+
 ## Overview
 
-This project was developed as part of the **EBEC Challenge** in the **Innovative Design** category. The challenge required our team to design and build a **fully functional automated assembly line prototype** within just **24 hours**. The system was designed to perform four key operations:
+This project was developed as part of the **EBEC Challenge '25** in the **Innovative Design** category. The challenge required our team to design and build a **fully functional automated assembly line prototype** within just **24 hours**. The system was designed to perform four key operations:
 
 ✅ Transport products from **Zone A to Zone B**\
 ✅ Place the product inside a box 📦\
@@ -43,6 +45,7 @@ Our biggest challenge was **automating the sticker stamping mechanism**. Despite
 
 - **Time Constraint:** Completing the entire system within 24 hours was intense but rewarding.
 - **Precision and Speed of Movements:** Since every action needed to be precise, ensuring both accuracy and speed was a significant challenge.
+- **PWM Control Issues:** The PWM signals were not functioning correctly for the motors to control speed, so we had to simulate PWM by manually pulsing the motor control signals to regulate their movement.
 - **Hardware-Software Integration:** A great learning experience in embedded systems.
 
 ---
