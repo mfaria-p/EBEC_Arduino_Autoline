@@ -46,7 +46,5 @@ Our biggest challenge was **automating the sticker stamping mechanism**. Despite
 - **PWM Control Issues:** The PWM signals were not functioning correctly for the motors to control speed, so we had to simulate PWM by manually pulsing the motor control signals to regulate their movement.
 - **Hardware-Software Integration:** A great learning experience in embedded systems.
 
----
-
 This project was an exciting and challenging experience that pushed our **engineering and problem-solving skills** to the limit. Proud of the dedication and teamwork that made it possible! 🚀
 
