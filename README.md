@@ -1,3 +1,5 @@
+🚀 Fully automated Arduino assembly line built in 24h for EBEC Challenge '25.
+
 # EBEC_Arduino_Autoline
 
 ## Overview
